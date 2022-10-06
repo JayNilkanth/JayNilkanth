@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, AI, Python, SQL,NLP**
 
-- 💬 Ask me about **Python, SQL, Machine Learning**
+- 💬 Ask me about **Python, SQL and achine Learning**
 
 - 📫 How to reach me **jaynilkanth1593@gmail.com**
 
