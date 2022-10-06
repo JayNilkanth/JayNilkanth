@@ -1,7 +1,7 @@
 [![MasterHead](https://www.bacancytechnology.com/main-boot-5/images/data-scientist/banner.jpg?v-1)](https://jayNilkanth.io)
 <h1 align="center">Hi 👋, I'm Jaykumar</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/images/header.width-808.gif">
+<img align="right" alt="Coding" width="400" src="https://twilio-cms-prod.s3.amazonaws.com/images/header.width-808.gif">(https://jaynilkanth.io)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaynilkanth&label=Profile%20views&color=0e75b6&style=flat" alt="jaynilkanth" /> </p>
